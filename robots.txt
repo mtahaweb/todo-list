@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /admin
+Allow: /
+Sitemap: https://mtahaweb.github.io/todo-list/sitemap.xml

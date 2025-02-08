@@ -1,0 +1,1 @@
+import{_ as c,u as _,o as n,c as s,b as a,R as r}from"./C6FHYs9b.js";const d={__name:"todoHead",setup(o){const t=_(),e=()=>{t.push("/")};return(f,m)=>(n(),s("header",{onClick:e},"Todo List App"))}},u=c(d,[["__scopeId","data-v-6f9c6d8e"]]),p={};function l(o,t){const e=u;return n(),s("main",null,[a(e),r(o.$slots,"default")])}const h=c(p,[["render",l]]);export{h as default};
